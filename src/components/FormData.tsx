@@ -1,5 +1,5 @@
-import React, { useState } from "react"
-import { Button, Form, Input, InputNumber, message, Upload } from "antd"
+import React from "react"
+import { Button, Form, Input, Upload } from "antd"
 import { UploadOutlined } from '@ant-design/icons';
 const layout = {
     labelCol: { span: 8 },
